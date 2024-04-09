@@ -81,7 +81,6 @@ public class DoublyLinkedList {
         return first == null;
     }
 
-    @Override
 	public String toString() {
 		
 		StringBuilder ret = new StringBuilder();
